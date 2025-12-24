@@ -106,8 +106,6 @@ const lau = {
 [![Email](https://img.shields.io/badge/-Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laueesyan1999@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laueesyan)
 
-📧 **Email:** laueesyan1999@gmail.com
-
 </div>
 
 ---
