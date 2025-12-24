@@ -2,6 +2,11 @@
 
 I'm Lau, a Software Engineer / Software Developer based in Malaysia.
 
-📧 laueesyan1999@gmail.com
+## 💻 Tech Stack:
+
+## 🌐 Socials:
+
+## 💬 Contact:
+ <ui> 📧 laueesyan1999@gmail.com </ui>
 
 TBA
