@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Lau Ee Syan
 
-### Software Engineer | Full-Stack Developer | Tech Enthusiast
+### Software Engineer | Full-Stack Developer 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ee-syan-lau-8a225a255)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laueesyan1999@gmail.com)
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** based in Malaysia, dedicated to crafting elegant solutions to complex problems. With expertise spanning both front-end and back-end development, I thrive on turning ideas into reality through clean, efficient code.
+I'm a passionate **Software Engineer** based in Malaysia, dedicated to crafting elegant solutions to complex problems. With expertise spanning both front-end and back-end development, I excel at bringing ideas to life through clean, efficient code.
 
 - 🔭 Currently working on cutting-edge web applications
 - 🌱 Constantly learning and exploring new technologies
