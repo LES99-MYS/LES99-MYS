@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Lau Ee Syan
+# 👋 Hi, I'm Lau Ee Syan~ Can call me Lau 😉
 
 ### Software Engineer | Full-Stack Developer 
 
