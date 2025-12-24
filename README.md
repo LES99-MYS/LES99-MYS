@@ -69,6 +69,12 @@ I'm a passionate **Software Engineer** based in Malaysia, dedicated to crafting 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laueesyan&show_icons=true&theme=radical&hide_border=true&count_private=true)
+?username=LES99-MYS
+&show_icons=true          # Show icons
+&theme=radical            # Color theme
+&hide_border=true         # Remove border
+&count_private=true       # Count private repos
+&include_all_commits=true # Include all commits
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laueesyan&layout=compact&theme=radical&hide_border=true)
 
