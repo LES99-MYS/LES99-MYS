@@ -68,7 +68,6 @@ I'm a passionate **Software Engineer** based in Malaysia, dedicated to crafting 
 
 ## 📊 GitHub Stats
 <div align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LES99-MYS&theme=dark&hide_border=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LES99-MYS&theme=dark&hide_border=false)
 </div>
 
